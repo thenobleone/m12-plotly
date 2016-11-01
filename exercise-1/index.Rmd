@@ -1,6 +1,6 @@
-----
-output: html
-----
+---
+output: html_document
+---
 
 
 # Choropleth of 2011 US Agirculture Exports
